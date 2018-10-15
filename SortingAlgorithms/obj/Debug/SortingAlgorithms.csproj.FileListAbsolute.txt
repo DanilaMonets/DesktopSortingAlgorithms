@@ -1,0 +1,10 @@
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.Form1.resources
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.Properties.Resources.resources
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.GenerateResource.cache
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\Danik\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
