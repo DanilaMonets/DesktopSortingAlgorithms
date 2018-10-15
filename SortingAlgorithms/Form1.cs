@@ -13,7 +13,7 @@ namespace SortingAlgorithms
 {
     public partial class Form1 : Form
     {
-        private const int ArrSize = 10;
+        private const int ArrSize = 1000;
         private Array arr;
         private Array resetArr;
         private delegate void StatusStripChange(string text);
@@ -27,9 +27,11 @@ namespace SortingAlgorithms
             PrintOnArr();
             ChangeStatusStrip("Start time: " + DateTime.Now.ToString("HH:MM"));
         }
+
         private void PrintOnArr()
         {
-            label1.Text = arr.ToString();
+            //label1.Text = arr.ToString();
+            textBox1.Text = arr.ToString();
         }
         private void ChangeStatusStrip(string text)
         {
