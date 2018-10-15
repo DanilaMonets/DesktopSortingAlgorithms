@@ -48,6 +48,7 @@ namespace SortingAlgorithms
         private void Reset_Click(object sender, EventArgs e)
         {
             ResetArr();
+            ChangeStatusStrip("Array is reset.");
         }
 
         private void BubbleSort(dynamic array)
