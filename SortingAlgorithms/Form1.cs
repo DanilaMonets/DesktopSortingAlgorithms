@@ -25,7 +25,7 @@ namespace SortingAlgorithms
             arr = new Array(ArrSize);
             resetArr = new Array(arr);
             PrintOnArr();
-            ChangeStatusStrip("Start time: " + DateTime.Now.ToString("HH:MM"));
+            ChangeStatusStrip("Start time: " + DateTime.Now.ToString());
         }
 
         private void PrintOnArr()
